@@ -1,0 +1,19 @@
+{
+  "name": "Casino CIRSA Valencia ",
+  "short_name": "Casino CIRSA Valencia ",
+  "theme_color": "",
+  "background_color": "#0d0d0d",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1767964900-cropped-favicon-02-32x32.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

@@ -1,0 +1,197 @@
+{
+    "es-ES": {
+        "styles": {
+            "bg": "#0d0d0d",
+            "lang-select-color": "#222829",
+            "bg-light": "#0d0d0d",
+            "welcome-bonus-bg": "#FFFFFF",
+            "top-games-hover-fg": "#222829",
+            "main-bg": "#ebebeb",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#C89C00",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#c73200",
+            "yellow": "#C89C00",
+            "yellow-button": "#c73200",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#FFFFFF",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#0d0d0d",
+            "faq-label": "#FFFFFF",
+            "bg-footer": "#0d0d0d",
+            "copyright": "#e7e7d5",
+            "starColor": "#C89C00",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino CIRSA Valencia ",
+            "title": "Casino CIRSA Valencia: juegos, póker, slots, bares y eventos",
+            "description": "Descubre Casino CIRSA Valencia: slots y juegos de mesa, póker con ambiente, shows nocturnos, bares y experiencia gastronómica. Consulta horarios, normas de acceso, opciones de entretenimiento y un plan completo para una noche memorable.",
+            "canonical": "casinocirsavalencia-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1450",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "casinocirsavalencia-online.com",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1451",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1452"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1453",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino CIRSA Valencia  Logo"
+        },
+        "nav": {
+            "signUp": "Registrarse",
+            "playNow": "Jugar ahora"
+        },
+        "hero": {
+            "title": "Casino CIRSA Valencia — casino, póker, shows y ocio",
+            "textDesktop": "Oferta exclusiva de bienvenida de",
+            "textMobile": "Oferta exclusiva de bienvenida de",
+            "playGame": "Jugar",
+            "claimBonus": "Reclamar bono",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1454",
+            "imageSizeModifier": 5,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1456",
+            "mobileImageSizeModifier": -5,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Reclamar bono",
+            "title": " Los mejores casinos",
+            "allCasino": "Todos los casinos",
+            "welcomeBonusText": "Bono de bienvenida"
+        },
+        "bonusDetails": {
+            "title": "Detalles de bonificación",
+            "getBonusButtonText": "Obtener bono",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonos",
+            "rate": "Rate",
+            "freeSpins": "Giros gratis",
+            "moreInfo": "Más info",
+            "get": "Conseguir",
+            "refresh": "Refrescar"
+        },
+        "advantages": {
+            "title": "Ventajas",
+            "advantagesBeforeText": "",
+            "items": [
+                "Slots y gastronomía 24 horas sin pausa",
+                "Juegos de mesa con crupieres cada día",
+                "Póker cash y sesiones de torneos constantes",
+                "Jackpots progresivos con pagos muy atractivos",
+                "Promociones de juego con bonos y tiradas",
+                "Zonas VIP cómodas para juego privado",
+                "Espectáculos y ocio nocturno en el complejo"
+            ],
+            "advantagesAfterText": "Casino CIRSA Valencia destaca por unir juego, entretenimiento y buen servicio en un mismo lugar. Es ideal para un plan completo: cenar, jugar y disfrutar de un show. El ambiente funciona tanto para una visita rápida como para una noche larga.\n",
+            "knowMore": "Saber más",
+            "appTitle": " Casino CIRSA Valencia App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1458",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": " Casino CIRSA Valencia App",
+            "mobileGooglePlayImageTitle": " Casino CIRSA Valencia App",
+            "mobileIosImageTitle": " Casino CIRSA Valencia App"
+        },
+        "games": {
+            "playNowText": "Jugar ahora",
+            "title": "Los mejores juegos",
+            "allGames": "Todos los juegos"
+        },
+        "about": {
+            "history": {
+                "title": "Acerca de  Casino CIRSA Valencia",
+                "description1": "El casino se diferencia por combinar juego, gastronomía y espectáculos en un solo espacio. Su formato permite pasar de slots a mesas y póker con total comodidad durante la noche.\n",
+                "items": [
+                    "Bono hasta 500 €.",
+                    "Jackpots hasta 50.000 €.",
+                    "Cashback 10% semanal."
+                ],
+                "description2": "Casino CIRSA Valencia es un complejo de juego moderno con un enfoque de ocio muy marcado. Aquí se siente el pulso de la ciudad, donde la emoción se mezcla con comodidad. Sus interiores transmiten amplitud, luz y energía. Es un lugar adecuado tanto para una visita corta como para una noche completa.\n",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1459",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": " La oferta incluye slots, juegos de mesa y póker. Los crupieres mantienen un ritmo agradable y ayudan a quienes se inician. La parte gastronómica permite hacer una pausa y continuar el plan sin prisas. La agenda de eventos suma ambiente y convierte la visita en una experiencia. Para quienes buscan discreción, existen zonas más tranquilas. En conjunto, es un espacio donde juego, servicio y entretenimiento conviven con naturalidad."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino CIRSA Valencia: una noche con estilo, del juego al show",
+                "description": "<p>\nCasino CIRSA Valencia recibe a los visitantes con un estilo moderno y una atmósfera de ocio urbano. En sus espacios se perciben luz, amplitud y un toque premium sin excesos. Es un entorno cómodo tanto para quienes buscan emoción como para quienes priorizan pasar una buena noche. Música, iluminación y distribución acompañan el ritmo del casino sin resultar agobiantes. El resultado es un equilibrio entre ambiente festivo y descanso relajado.\n\n<\/p>\n<br>\n\n\n<p>\nEn cuanto a horarios, el concepto está pensado para adaptarse a distintos planes. La zona de slots y la parte gastronómica suelen facilitar visitas a cualquier hora, por eso muchos llegan tarde y alargan la noche. Los juegos de mesa y mesas de cash acostumbran a seguir un horario que encaja con la franja más activa de la tarde-noche. Así, es fácil empezar con copa o cena y después pasar a ruleta, blackjack o baccarat. Ese flujo gusta especialmente a quienes combinan experiencias en una misma salida.\n\n<\/p>\n<br>\n<p>\nLa propuesta de barras suele girar en torno a coctelería y bebidas ligeras que encajan con el ambiente del casino. Es habitual encontrar un formato lounge cercano a la sala de juego para hacer pausas entre sesiones. En días con eventos, el bar se vuelve un punto de encuentro y parte del plan. Para un ritmo más tranquilo, suelen existir opciones de café, bebidas sin alcohol y bocados rápidos. La gran ventaja es moverse entre descanso y juego sin salir del complejo.\n\n<\/p>\n<br>\n<p>\nEl alojamiento no siempre forma parte del propio recinto, pero normalmente hay muchas opciones de hotel en el entorno, desde perfiles business hasta alternativas urbanas cómodas. Esto facilita organizar una noche completa con estancia cercana, sobre todo para grupos o visitas por evento. Muchos optan por hoteles con acceso rápido en taxi o transporte público. Esa elección evita prisas y hace la experiencia más cómoda. Así, Casino CIRSA Valencia encaja bien dentro de una ruta nocturna por la ciudad.\n\n<\/p>\n<br>\n<p>\nLos eventos y el entretenimiento suelen ser uno de los grandes atractivos. Noches con música en vivo, shows temáticos, cenas con espectáculo y actividades de póker aportan valor más allá del juego. En fechas señaladas el ambiente se vuelve especialmente festivo gracias a la programación. Para empresas o grupos, es una fórmula eficaz para unir gastronomía, conversación y emoción. Incluso sin jugar demasiado, la agenda puede ser una razón suficiente para visitar.\n\n<\/p>\n<br>\n<p>\nLas promociones y programas de ventajas suelen orientarse a premiar la repetición de visitas. Esto puede incluir puntos, ofertas personalizadas, invitaciones a eventos y detalles en bar o restauración. También aparecen paquetes que mezclan juego con experiencias, sumando un componente gastronómico o de show. Para quienes vuelven con frecuencia, lo más valioso suele ser el acceso a zonas más cómodas y un trato más personalizado. En conjunto, la idea es clara: cada visita debe sentirse mejor que la anterior.\n\n<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nServicio y finanzas: personal, pagos y cobro de premios\n<\/h3>\n\n<p>\nEl personal en Casino CIRSA Valencia suele seguir el estándar de un casino moderno: trato cordial, rapidez y foco en la seguridad. El equipo de acceso y sala ayuda con dudas básicas, desde normas de juego hasta orientación por zonas. Los crupieres mantienen un ritmo claro y explican con tacto las mecánicas a quien se inicia. En horas con más afluencia el juego se vuelve más dinámico, mientras que en periodos tranquilos el ambiente es más pausado. También se presta atención a la verificación de edad y al cumplimiento de la normativa interna.\n\n<\/p>\n<br>\n\n\n<p>\nEn idiomas, lo más habitual es el español, junto con inglés para atender a visitantes internacionales. En momentos concretos pueden aparecer otros idiomas, especialmente en jornadas con eventos o en servicios de atención premium. Si se planea una visita de grupo o una sesión importante, ayuda preparar peticiones clave en español o inglés. La señalización interior suele facilitar moverse sin complicaciones. Y si hace falta, el personal indica con rapidez dónde están caja, póker o barras.\n\n<\/p>\n<br>\n<p>\nLa moneda habitual de operación es el euro, lo que simplifica apuestas, consumos y servicios. En caja y puntos de servicio se suelen aceptar efectivo y tarjetas bancarias, y para ciertas gestiones pueden existir alternativas según límites y políticas internas. Al usar tarjeta, pueden aplicarse restricciones por tipo de operación o importes, especialmente al convertir fondos en saldo de juego. Conviene preguntar en caja qué métodos están disponibles ese día, ya que pueden variar. Si se quiere evitar depender del efectivo, es recomendable llevar una opción de pago adicional.\n\n<\/p>\n<br>\n<p>\nContar con cajeros automáticos en el propio casino o en sus proximidades es una práctica frecuente para retirar efectivo cuando se necesite. También puede existir orientación sobre aspectos básicos de cambio de divisa, aunque la disponibilidad depende de procedimientos internos y requisitos de cumplimiento. Si se viaja con una moneda distinta del euro, lo más eficiente suele ser cambiar antes en banco u oficina oficial. Esto evita pérdidas por tipo de cambio y ahorra tiempo en horas de máxima actividad. En cualquier caso, caja y personal indican el procedimiento más seguro.\n\n<\/p>\n<br>\n<p>\nEl cobro de premios suele gestionarse a través de la caja: importes pequeños acostumbran a pagarse en efectivo y cantidades mayores pueden requerir verificación adicional. Según el importe, es normal que pidan identificación, formularios estándar o comprobaciones de acuerdo con controles financieros. Para sumas elevadas, el ingreso por transferencia bancaria puede ser la opción más cómoda y discreta. Los plazos y el formato dependen de políticas internas y medidas de seguridad. Guardar tickets y justificantes ayuda si se necesita registrar el resultado de la visita.\n\n<\/p>\n<br>\n<p>\nLa fiscalidad del premio depende de la situación personal, la residencia fiscal y las reglas de declaración aplicables. En algunos casos los premios se declaran dentro del impuesto anual, y en otros pueden existir procedimientos específicos bajo determinadas condiciones. En la práctica, ante un premio grande conviene documentarlo y, si hace falta, consultar con un profesional. El casino suele cumplir exigencias de identificación y control, lo que aporta seguridad a ambas partes. Ese marco reduce riesgos y evita incidencias en el cobro.\n\n<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nNormas de acceso a Casino CIRSA Valencia: dress code, entrada y cómo llegar\n<\/h3>\n\n<p>\nLa visita al casino suele comenzar con control de edad e identificación, por lo que conviene llevar documento incluso si se aparenta claramente ser mayor de edad. El ambiente se apoya en un estilo urbano cuidado, pensado para una salida nocturna. El acceso se mantiene bajo normas internas de conducta para proteger el confort de todos. En sala es importante respetar a crupieres y jugadores, no interferir y seguir indicaciones del personal. La grabación o el uso del móvil puede estar limitado, especialmente en mesas y zona de caja. Un estado de embriaguez evidente o una actitud agresiva puede implicar denegación de entrada. Por seguridad, en ocasiones se revisan bolsos o se solicita mostrar determinados objetos. Algunas áreas pueden tener requisitos extra, como zonas VIP o eventos con entrada. Los horarios de ciertas áreas pueden variar, por lo que para juegos de mesa conviene planificar la visita por la tarde-noche. Llegar suele ser sencillo tanto en transporte público como en coche. Si se va en vehículo privado, ayuda prever el aparcamiento para evitar pérdidas de tiempo.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nDress code\n<\/h4>\n\n <ul>\n            <li>• \nSmart casual: camisa\/polo, vaqueros cuidados, calzado correcto.\n\n<\/li>\n            <li>• \nEvitar ropa de playa, chándal y chanclas.\n\n<\/li>\n            <li>• \nEn eventos nocturnos, mejor un look más elegante.\n\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCondiciones de acceso:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAcceso solo para mayores de edad.\n\n<\/li>\n            <li>• \nPosible verificación de documento y control básico de seguridad.\n\n<\/li>\n            <li>• \nPara ciertos eventos puede requerirse entrada o registro previo.\n\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nProhibiciones y limitaciones:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nProhibidos conflictos, agresiones, interferencias y cualquier intento de fraude.\n\n<\/li>\n            <li>• \nLimitaciones de foto\/vídeo en sala de juego y en caja.\n\n<\/li>\n            <li>• \nObligación de respetar instrucciones del personal y el trabajo de los crupieres.\n\n\n\n<\/li>\n\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nAparcamiento y llegada:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nSuelen existir opciones de aparcamiento en el entorno o dentro de la estructura del complejo.\n\n<\/li>\n            <li>• \nEn transporte público es práctico usar metro y autobuses urbanos.\n\n<\/li>\n            <li>• \nTaxi o VTC es una opción cómoda para volver tarde.\n\n<\/li>\n\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPrograma de fidelidad: cómo funciona el Club Winner \/ CWC en Casino CIRSA Valencia\n<\/h3>\n\n<p>\nEl programa de fidelidad de Casino CIRSA Valencia se basa en una idea simple: cuanto más juegas y disfrutas del complejo, más ventajas personalizadas recibes. Normalmente se acumulan puntos por actividad de juego y, en algunos casos, por consumos asociados, que luego se canjean por beneficios. Para quien llega por primera vez, el programa aporta pequeños privilegios desde el inicio y facilita sentirse “de la casa”. Para visitantes habituales, lo más valioso suele ser el aumento de acumulación, límites más cómodos y ofertas a medida. La personalización es clave: las ventajas suelen adaptarse a gustos de slots, mesas o póker. El sistema suele incluir niveles que abren acceso a zonas más confortables y eventos especiales. Además, pueden existir campañas estacionales que aceleran la obtención de puntos. Si se combina juego con ocio, cobran importancia las ventajas en gastronomía y espectáculos. También es común el formato de “detalles” como bebidas, invitaciones o mejoras de servicio. A mayor nivel, menos trámites y más prioridad de atención. En conjunto, el programa convierte cada visita en una experiencia acumulativa con recompensas crecientes.\n\n<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nCondiciones de registro:\n\n\n<\/h4>\n\n <ul>\n            <li>• \nAlta en mostrador o sistema interno: 5–10 minutos.\n\n<\/li>\n            <li>• \nDocumento de identidad y verificación de mayoría de edad.\n\n<\/li>\n            <li>• \nDatos de contacto para ofertas y comunicaciones.\n\n<\/li>\n            <li>• \nAceptación de normas de puntos y canje.\n\n<\/li>\n\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nNiveles y cómo conseguirlos\n<\/h4>\n\n <ul>\n            <li>• \nBronce — nivel inicial tras el alta.\n\n<\/li>\n            <li>• \nPlata — acumular alrededor de 1.000 puntos en un periodo con actividad constante.\n\n<\/li>\n            <li>• \nOro — cerca de 5.000 puntos, visitas y juego frecuentes.\n\n<\/li>\n            <li>• \nPlatino — en torno a 15.000 puntos, prioridad y beneficios ampliados.\n\n<\/li>\n\t    <li>• \nVIP — por invitación según actividad, condiciones personalizadas.\n\n<\/li>\n        <\/ul><br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nBonos y ventajas\n<\/h4>\n\n <ul>\n            <li>• \nBono de bienvenida: hasta 50 € en créditos de juego en la primera visita.\n\n<\/li>\n            <li>• \nMultiplicador de puntos: de x1 (Bronce) a x3 (Platino\/VIP).\n\n<\/li>\n            <li>• \nCashback: 5–15% en días o campañas seleccionadas.\n\n<\/li>\n            <li>• \nTiradas gratis: paquetes de 20–100 spins en periodos promocionales.\n\n<\/li>\n\t    <li>• \nDetalles en bar: consumiciones hasta 10–30 € según nivel.\n\n<\/li>\n\t    <li>• \nDescuentos en shows: hasta 20–40% en eventos y asientos concretos.\n\n<\/li>\n\t    <li>• \nPrioridad en torneos: acceso 24–48 horas antes a la inscripción.\n\n<\/li>\n\t    <li>• \nVentajas de parking: compensación\/condiciones especiales hasta 8–12 € por visita.\n\n<\/li>\n\t    <li>• \nCumpleaños: bono de 25–75 € y detalle gastronómico.\n\n<\/li>\n        <\/ul><br>\n\n\n\n\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Proveedores de software"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entretenimiento y juegos e Casino CIRSA Valencia",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonos y ofertas fuera de la fidelidad: promociones, premios y eventos de temporada\n<\/h3>\n\n<p>\nAdemás del programa de fidelidad, Casino CIRSA Valencia suele mantener el interés con promociones, campañas de juego y eventos ligados al entretenimiento. Este enfoque permite obtener ventajas incluso si se visita de forma ocasional y no se acumulan puntos. Muchas acciones se enfocan en slots, póker y jornadas específicas con mayor actividad. Un elemento importante son las semanas temáticas y las propuestas nocturnas que mezclan juego con bar o show. Para nuevos visitantes a menudo se crea una entrada sencilla mediante mecánicas de bienvenida y actividades de introducción. Para jugadores con experiencia resultan más atractivas las campañas de jackpot y la dinámica competitiva de torneos. En fechas especiales aparecen packs de “cena + espectáculo” que convierten la salida en un plan completo. Los eventos estacionales aportan ambiente festivo y amplían la agenda. También existen propuestas para grupos, facilitando la experiencia compartida. Así, el visitante puede elegir venir por juego, por emociones o por ambos. Con variedad de promos, es más fácil ajustar el plan al presupuesto y al estado de ánimo.\n\n<\/p>\n<br>\n\n\n <ul>\n            <li>• \nPromoción de bienvenida: bono hasta 100 € en créditos de juego en las primeras visitas.\n\n<\/li>\n            <li>• \nTiradas gratis en slots: 25–200 spins en máquinas destacadas en días promocionales.\n\n<\/li>\n            <li>• \nCampaña de jackpots: “noche de jackpot” con bolsa hasta 10.000–50.000 € según mecánica.\n\n<\/li>\n            <li>• \nImpulso a torneos de póker: garantizados u overlay hasta 2.000–15.000 € en fechas seleccionadas.\n\n<\/li>\n\t    <li>• \nFreerolls y satélites: acceso desde 0 € o con buy-in mínimo para torneos mayores.\n\n<\/li>\n\t    <li>• \nCash con rakeback: devolución hasta 5–10% de comisión en días anunciados.\n\n<\/li>\n\t    <li>• \nCombo “cena + juego”: pack desde 39–79 €, menú y créditos incluidos.\n\n<\/li>\n\t    <li>• \nNoches de show: entrada con precio especial y extra de bar hasta 10–20 € en pack.\n\n<\/li>\n\t    <li>• \nCumpleaños y fechas especiales: bono puntual de 20–60 € y detalle de bar.\n\n<\/li>\n\t    <li>• \nSemanas de temporada: promos temáticas con spins extra y sorteos de premios.\n\n\n<\/li>\n        <\/ul><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nJuegos populares en Casino CIRSA Valencia: de la ruleta al póker\n<\/h3>\n\n<p>\nLa oferta de juego en Casino CIRSA Valencia suele centrarse en clásicos reconocibles incluso para quien llega por primera vez. La ruleta destaca por reglas sencillas y ritmo rápido, por eso a menudo es la primera elección. El blackjack atrae a quienes disfrutan tomando decisiones, ya que premia la disciplina y la estrategia básica. El baccarat ofrece una experiencia más serena y elegante, ideal para apuestas con ritmo tranquilo. La zona de slots suele ser la más variada, con temáticas distintas y rondas bonus frecuentes. Los formatos electrónicos resultan prácticos por su velocidad y flexibilidad en niveles de apuesta. El póker añade componente social y competitivo, especialmente en días de torneos. Para muchos, el atractivo está en las mesas en vivo: crupier, fichas y ambiente real de casino. Los jugadores con experiencia valoran poder cambiar de juego y ajustar el riesgo durante la noche. Quien empieza suele agradecer la ayuda del personal y la claridad de las normas. En conjunto, el catálogo encaja tanto para diversión casual como para juego más serio y planificado.\n\n<\/p>\n<br>\n\n<ul>\n            <li>• \nRuleta: apuestas rápidas y reglas simples, ideal para sesiones cortas.\n\n<\/li>\n            <li>• \nBlackjack: objetivo 21 con decisiones estratégicas y control del riesgo.\n\n<\/li>\n            <li>• \nBaccarat: ritmo calmado, apuestas a banca o jugador, reglas muy accesibles.\n\n<\/li>\n            <li>• \nPóker (Texas Hold’em): cash y torneos, foco en habilidad y lectura de rivales.\n\n<\/li>\n\t    <li>• \nSlots: gran variedad de mecánicas, bonus rounds y funciones especiales.\n\n<\/li>\n\t    <li>• \nRuleta electrónica\/multijuego: formato ágil para quienes buscan velocidad.\n\n<\/li>\n\t    <li>• \nVariantes de cartas: opciones adicionales para dar diversidad a la noche.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nApuestas mínimas y máximas en Casino CIRSA Valencia\n<\/h3>\n\n<p> \nLos rangos de apuesta en Casino CIRSA Valencia permiten elegir un nivel cómodo, desde apuestas de prueba hasta sesiones más exigentes. En juegos de mesa, los límites suelen depender de cada mesa y de la franja horaria, mientras que en slots varían según la máquina y su configuración. En póker, el marco lo marca el tipo de cash o la estructura del torneo. A continuación se muestran rangos orientativos para entender el orden de apuestas y planificar el presupuesto de la noche.\n\n<\/p><br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#C89C00; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Juego<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Apuesta mínima<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Apuesta máxima<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ruleta (mesa en vivo)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">2.000 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">10 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">3.000 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">20 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5.000 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Texas Hold’em (cash)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1\/2 € <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> 10\/20 €<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Variantes de cartas<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">5 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">1.000 €<\/td>\n                <\/tr>\n       <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Ruleta electrónica<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,50 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">500 €<\/td>\n                <\/tr>\n       <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slots<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">0,10 €<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">100 €<\/td>\n                <\/tr>\n \n            <\/tbody>\n        <\/table><br>\n\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEventos y entretenimiento en Casino CIRSA Valencia: shows, música y plan nocturno\n<\/h3>\n\n<p>\nCasino CIRSA Valencia suele percibirse no solo como un lugar para jugar, sino como una propuesta completa de ocio nocturno. Su punto fuerte son los eventos que dan vida a la experiencia: música, actuaciones temáticas y programas especiales de noche. Estas citas están pensadas para que el visitante combine fácilmente partes del plan: empezar en el bar, seguir con un show y terminar en la sala de juego. Es una fórmula que encaja tanto para parejas como para grupos y ambientes corporativos donde se buscan emociones y una agenda potente.\n\n<\/p>\n<br>\n\n\n<p>\nMerecen destaque las actividades regulares que crean un “calendario” de entretenimiento. En determinados días el ambiente se vuelve más club: más música, más afluencia y un bar más activo. El formato puede incluir sets en vivo, fiestas temáticas, tributos musicales y cenas con espectáculo. Para quien busca movimiento, esas noches se convierten en el motivo principal para ir incluso sin plan de juego definido.\n\n<\/p>\n<br>\n<p>\nLos eventos de póker añaden un componente competitivo y construyen comunidad. Las fechas de torneos atraen a jugadores que van por la experiencia social y la dinámica de competición. En esas jornadas la organización suele ser más exigente: horarios, asientos, descansos y operación de sala. Para quien empieza, a veces existen formatos más accesibles para entrar sin presión. Para jugadores habituales, importan las estructuras y las condiciones de premios, que elevan el interés.\n\n<\/p>\n<br>\n<p>\nAdemás de shows y póker, suelen existir propuestas para público amplio: noches temáticas, programas estacionales, fechas festivas y ofertas vinculadas a gastronomía. Esto aporta sensación de variedad y de planes distintos a lo largo del año. Así, Casino CIRSA Valencia funciona como un lugar donde el entretenimiento no es un añadido, sino un valor central de la noche.\n\n<\/p>\n<br>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTodo el entretenimiento\n<\/h4>\n\n <ul>\n            <li>• \nMúsica en vivo: actuaciones y noches vocales para crear ambiente.\n\n<\/li>\n            <li>• \nShows tributo: conciertos temáticos con repertorio reconocido.\n\n<\/li>\n            <li>• \nCena con espectáculo: gastronomía y escenario en un mismo plan.\n\n<\/li>\n            <li>• \nNoches DJ\/club: formato más dinámico centrado en ritmo y bar.\n\n<\/li>\n\t    <li>• \nTorneos de póker: competición y calendario para jugadores regulares.\n\n<\/li>\n\t    <li>• \nCash de póker: sesiones flexibles para quienes prefieren libertad.\n\n<\/li>\n\t    <li>• \nEventos de temporada: fechas festivas y semanas temáticas.\n\n<\/li>\n\t    <li>• \nFormatos corporativos: planes para grupos con programación adaptada.\n\n\n<\/li>\n        <\/ul><br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nBares, restaurantes y descanso: cómo vivir una noche en Casino CIRSA Valencia\n<\/h3>\n\n<p>\nEl descanso en Casino CIRSA Valencia suele seguir la idea de “todo en un mismo plan”: no solo se viene a jugar, también a disfrutar. La parte gastronómica hace la noche más cómoda: se puede empezar cenando, pasar al juego y volver a bebidas o bocados a mitad de la madrugada. Este ritmo encaja con quien no quiere cambiar de local y prefiere un recorrido único. Las zonas de descanso suelen mantener un estilo urbano, con iluminación suave y espacios pensados para conversar.\n\n<\/p>\n<br>\n\n\n<p>\nLa propuesta de bar suele centrarse en coctelería, bebidas clásicas y opciones ligeras para acompañar. Por la noche, el bar se convierte en punto de encuentro para quedar con amigos o hacer una pausa entre sesiones. En días con eventos, la experiencia del bar se integra con el show y refuerza el ambiente festivo. Para un plan más tranquilo, normalmente hay café, bebidas sin alcohol y snacks rápidos que no rompen el ritmo. Así se mantiene el equilibrio entre emoción y descanso.\n\n<\/p>\n<br>\n<p>\nEl formato de restaurante acostumbra a ofrecer un menú cómodo tanto para una cena completa como para un bocado tardío. Es habitual encontrar propuestas internacionales con toques mediterráneos que encajan bien con el ocio nocturno. Un punto a favor es la posibilidad de unir gastronomía y evento: cenas con espectáculo, noches temáticas y menús especiales. Para grupos resulta más práctico que dividir la noche en varios sitios. El resultado es un plan compacto y bien organizado.\n\n<\/p>\n<br>\n<p>\nEn cuanto a hoteles, lo común es elegir opciones cercanas para evitar desplazamientos largos tras una noche intensa. Este escenario es ideal para visitantes de fuera o para quien va a un show y prevé volver tarde. La ventaja es disponer de alternativas de distintos niveles en el entorno, desde prácticas hasta más premium. Con buena conexión de transporte, la experiencia se vuelve más relajada. Y lo más importante: cada persona puede ajustar la noche a su estilo, desde una visita breve hasta un plan completo con alojamiento.\n\n<\/p>\n<br>\n\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">\nTodos los espacios de descanso\n<\/h4>\n\n <ul>\n            <li>• \nCoctelería\/bar: bebidas clásicas y combinados para el ambiente nocturno.\n\n<\/li>\n            <li>• \nZona lounge: asientos para conversar y descansar entre sesiones.\n\n<\/li>\n            <li>• \nRestaurante: menú cómodo para cenas y bocados tardíos.\n\n<\/li>\n            <li>• \nCafé\/punto de café: café, bebidas sin alcohol y snacks ligeros.\n\n<\/li>\n\t    <li>• \nTerraza\/zona exterior (en temporada): descanso más relajado al aire libre.\n\n<\/li>\n\t    <li>• \nHoteles cercanos: opción de alojamiento próximo para volver sin prisas.\n\n\n<\/li>\n        <\/ul><br>\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "Preguntas frecuentes",
+            "items": [
+                {
+                    "title": " ¿Se puede ir en grupo y hay opciones para empresas?",
+                    "answer": "Sí, las visitas en grupo suelen ser posibles y con frecuencia se ofrecen planes tipo “cena + entretenimiento” con apoyo organizativo.\n"
+                },
+                {
+                    "title": "¿Se pueden cambiar fichas por efectivo en cualquier momento?",
+                    "answer": "Por lo general, el cambio se realiza en caja siguiendo un procedimiento estándar y las indicaciones del cajero.\n"
+                },
+                {
+                    "title": "¿Se puede solicitar autoexclusión o límites de acceso?",
+                    "answer": "Sí, suelen existir herramientas de juego responsable, incluyendo autoexclusión y limitaciones, gestionadas mediante procedimiento interno.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/1460",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Casino CIRSA Valencia "
+        }
+    },
+    "langs": [
+        {
+            "code": "es-ES",
+            "name": "Испанский",
+            "isDefault": true
+        }
+    ]
+}
